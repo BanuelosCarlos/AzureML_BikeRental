@@ -1,4 +1,4 @@
-# Steps to try to predict 
+# Predicting bike rentals using Azure ML studio
 Firts we create a Resource Group in Azure Porta, the we create a Work Space in Azule ML, it is here where we go to the Manage section an we select Compute. 
 ![Bike Prediction](Bike%20Prediction/2022-06-10%20(1).png)\
 \
